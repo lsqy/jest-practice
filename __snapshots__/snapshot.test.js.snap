@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`测试 generateAnotherConfig 函数 1`] = `
+Object {
+  "date": 2022,
+  "port": 8080,
+  "server": "localhost",
+}
+`;
+
+exports[`测试 generateConfig 函数 1`] = `
+Object {
+  "date": 2024,
+  "port": 8080,
+  "server": "localhost",
+}
+`;
